@@ -22,6 +22,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://beldmian.github.io/covid-tracker/",
   "browserslist": {
     "production": [
       ">0.2%",
